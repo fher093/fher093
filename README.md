@@ -18,10 +18,10 @@
 
 Soy estudiante de Ingeniería de Software en la **Universidad Técnica de Ambato (UTA)**. Me apasiona el desarrollo backend, la arquitectura de microservicios, la administración de servidores Linux y la integración de hardware IoT. Actualmente exploro herramientas de IA local y despliegues con Docker.
 
-* 🔭 **Actualmente trabajando en:** Arquitecturas de microservicios y despliegues con Docker.
-* 🛠️ **Explorando y aprendiendo:** Patrones de diseño avanzados, optimización de consultas SQL y automatización en Linux.
-* 💬 **Pregúntame sobre:** C#, PHP (Laravel), Bases de Datos y desarrollo backend en general.
-* ✉️ **Contacto:** `fllerena4198@uta.edu.ec`
+- 🔭 **Actualmente trabajando en:** Arquitecturas de microservicios y despliegues con Docker.
+- 🛠️ **Explorando y aprendiendo:** Patrones de diseño avanzados, optimización de consultas SQL y automatización en Linux.
+- 💬 **Pregúntame sobre:** C#, PHP (Laravel), Bases de Datos y desarrollo backend en general.
+- ✉️ **Contacto:** `fllerena4198@uta.edu.ec`
 
 ---
 
@@ -42,23 +42,14 @@ Soy estudiante de Ingeniería de Software en la **Universidad Técnica de Ambato
 <p><b>Tools & DevOps:</b><br>
     <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,aws" alt="Tools" />
 </p>
+
 --- 
 
 <h3>💻 Development Metrics</h3>
 <p align="center">
   <img
-    src="./assets/discussion-impact.svg?v=2"
-    alt="GitHub Discussions Impact"
-    width="720"
+    src="./assets/github-activity.svg"
+    alt="GitHub Development Metrics"
+    width="100%"
   />
-  <a href="https://github.com/antonisloukis/minimal-github-stats">
-    <img
-      src="https://raw.githubusercontent.com/antonisloukis/minimal-github-stats/main/assets/github-stats.svg"
-      width="100%"
-      alt="Automatically updated GitHub statistics"
-    />
-  </a>
-</p> 
-
-
-
+</p>
