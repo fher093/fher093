@@ -42,8 +42,9 @@ Soy estudiante de Ingeniería de Software en la **Universidad Técnica de Ambato
 <p><b>Tools & DevOps:</b><br>
     <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,aws" alt="Tools" />
 </p>
----
-### ◫ Development Metrics
+--- 
+
+<h3>💻 Development Metrics</h3>
 <p align="center">
   <img
     src="./assets/discussion-impact.svg?v=2"
@@ -57,6 +58,7 @@ Soy estudiante de Ingeniería de Software en la **Universidad Técnica de Ambato
       alt="Automatically updated GitHub statistics"
     />
   </a>
-</p>
+</p> 
 
-<img src="./assets/wave-divider.svg" width="100%" alt="Animated wave divider" />
+
+
