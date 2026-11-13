@@ -226,7 +226,7 @@
       y="120"
       text-anchor="end"
       class="stat-value">
-      278
+      283
     </text>
     
 
@@ -278,7 +278,7 @@
       y="148"
       text-anchor="end"
       class="stat-value">
-      14
+      15
     </text>
     
 
@@ -376,7 +376,7 @@
       y="204"
       text-anchor="end"
       class="stat-value">
-      295
+      301
     </text>
     
 
@@ -394,52 +394,52 @@
             <rect
               x="535.00"
               y="98"
-              width="130.89"
+              width="127.16"
               height="7"
               fill="#b07219"
             />
             
 
             <rect
-              x="665.89"
+              x="662.16"
               y="98"
-              width="89.41"
+              width="91.22"
               height="7"
               fill="#663399"
             />
             
 
             <rect
-              x="755.30"
+              x="753.37"
               y="98"
-              width="72.50"
+              width="70.89"
               height="7"
               fill="#f1e05a"
             />
             
 
             <rect
-              x="827.80"
+              x="824.26"
               y="98"
-              width="36.69"
+              width="35.64"
               height="7"
               fill="#e34c26"
             />
             
 
             <rect
-              x="864.49"
+              x="859.90"
               y="98"
-              width="18.48"
+              width="18.84"
               height="7"
               fill="#4F5D95"
             />
             
 
             <rect
-              x="882.97"
+              x="878.75"
               y="98"
-              width="57.03"
+              width="61.25"
               height="7"
               fill="#8b949e"
             />
@@ -466,7 +466,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              32.3%
+              31.4%
             </text>
             
 
@@ -489,7 +489,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              22.1%
+              22.5%
             </text>
             
 
@@ -512,7 +512,7 @@
               y="163"
               text-anchor="end"
               class="legend-value">
-              17.9%
+              17.5%
             </text>
             
 
@@ -535,7 +535,7 @@
               y="163"
               text-anchor="end"
               class="legend-value">
-              9.1%
+              8.8%
             </text>
             
 
@@ -558,7 +558,7 @@
               y="194"
               text-anchor="end"
               class="legend-value">
-              4.6%
+              4.7%
             </text>
             
 
@@ -581,7 +581,7 @@
               y="194"
               text-anchor="end"
               class="legend-value">
-              14.1%
+              15.1%
             </text>
             
 
@@ -643,7 +643,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    331
+    337
   </text>
 
   <text
@@ -689,7 +689,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    3
+    4
   </text>
 
   <text
@@ -768,6 +768,6 @@
     y="327"
     text-anchor="end"
     class="updated">
-    Updated 2026-11-12 04:49 UTC
+    Updated 2026-11-13 03:59 UTC
   </text>
 </svg>
